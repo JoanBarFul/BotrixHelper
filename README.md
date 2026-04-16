@@ -11,9 +11,7 @@
 
 **BotRix Kick Helper** es una extensión de navegador diseñada para elevar la experiencia de streaming en Kick.com. Olvídate de perder el hilo de tus comandos de BotRix o de calcular mentalmente cuánto falta para tu próximo `!check`. Todo lo que necesitas está ahora en un panel elegante, funcional y totalmente integrado.
 
-> [!TIP]
-> **Imagen Recomendada (Banner Central)**: Pon aquí una captura de pantalla del panel de la extensión (pestaña Comandos) en un tamaño grande para que sea lo primero que se vea.
-> `![Banner de la Extensión](ruta/de/tu/imagen_principal.png)`
+<img width="378" height="48" alt="image" src="https://github.com/user-attachments/assets/28f6fb02-4431-4df2-8c08-a29f6c376afc" />
 
 ---
 
