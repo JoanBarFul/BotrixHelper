@@ -13,8 +13,6 @@
 
 <p align="center">
   <img width="368" alt="BotRix Panel" src="https://github.com/user-attachments/assets/7b1627d0-d7d0-403d-a590-e6c4141ab03c" />
-  <br>
-  <img width="378" alt="BotRix Header" src="https://github.com/user-attachments/assets/f2cb3666-d7fc-4308-aff1-a423b2c188d6" />
 </p>
 
 ---
