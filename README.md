@@ -1,14 +1,13 @@
-# <p align="center">🤖 BotRix Kick Helper</p>
+# <p align="center">BotRix Kick Helper</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Kick.com-green?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/Style-Cyberpunk-blueviolet?style=for-the-badge" alt="Style">
 </p>
 
 ---
 
-## 🌟 Sobre el Proyecto
+## Sobre el Proyecto
 
 **BotRix Kick Helper** es una extensión de navegador diseñada para elevar la experiencia de streaming en Kick.com. Olvídate de perder el hilo de tus comandos de BotRix o de calcular mentalmente cuánto falta para tu próximo `!check`. Todo lo que necesitas está ahora en un panel elegante, funcional y totalmente integrado.
 
@@ -18,19 +17,19 @@
 
 ---
 
-## 🔥 Características Destacadas
+## Características Destacadas
 
 | Característica | Descripción |
 | :--- | :--- |
-| **🕹️ Control de Timers** | Rastreo preciso del cooldown de comandos personalizados y globales. |
-| **💰 Auto-Puntos** | Detección automática de ganancias de puntos mediante lectura inteligente del chat. |
-| **🔔 Alertas Visuales** | Una campana roja neón te avisará visualmente cuando el cooldown termine. |
-| **🔊 Sonidos Personalizables** | 4 perfiles de audio distintos para que nunca se te pase una alerta. |
-| **📐 Diseño Adaptativo** | Panel arrastrable y redimensionable con soporte para Modo Teatro. |
+| **Control de Timers** | Rastreo preciso del cooldown de comandos personalizados y globales. |
+| **Auto-Puntos** | Detección automática de ganancias de puntos mediante lectura inteligente del chat. |
+| **Alertas Visuales** | Una campana roja neón te avisará visualmente cuando el cooldown termine. |
+| **Sonidos Personalizables** | 4 perfiles de audio distintos para que nunca se te pase una alerta. |
+| **Diseño Adaptativo** | Panel arrastrable y redimensionable con soporte para Modo Teatro. |
 
 ---
 
-## 📸 Demo Visual
+## Demo Visual
 
 > [!IMPORTANT]
 > **Aquí deberías poner capturas de pantalla específicas:**
@@ -40,7 +39,7 @@
 
 ---
 
-## 🛠️ Instalación para Usuarios
+## Instalación para Usuarios
 
 Mientras la extensión está en proceso de revisión oficial, puedes instalarla manualmente siguiendo estos pasos:
 
@@ -53,7 +52,7 @@ Mientras la extensión está en proceso de revisión oficial, puedes instalarla 
 
 ---
 
-## 🚀 Cómo empezar a usarla
+## Cómo empezar a usarla
 
 1. **Configura tu Perfil**: Entra en la pestaña de ajustes y pon tu **Username** exacto de Kick. Es vital para que la extensión "escuche" al bot cuando te nombre en el chat.
 2. **Personaliza tus Comandos**: Añade los comandos que más uses y define sus segundos de cooldown (según los tengas configurados en BotRix).
@@ -61,7 +60,7 @@ Mientras la extensión está en proceso de revisión oficial, puedes instalarla 
 
 ---
 
-## 🛡️ Seguridad y Privacidad
+## Seguridad y Privacidad
 
 Esta extensión es **100% segura**:
 - ✅ No requiere contraseñas.
