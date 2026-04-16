@@ -42,16 +42,6 @@ BotRix Kick Helper incluye soporte para **Plantillas (.json)**, lo que permite c
 
 ---
 
-## Demo Visual
-
-> [!IMPORTANT]
-> **Aquí deberías poner capturas de pantalla específicas:**
-> 1. **Pestaña de Comandos**: `![Panel de Comandos](ruta/hacia/foto_comandos.png)` -> Muestra los botones verdes y los timers activos.
-> 2. **Pestaña de Configuración**: `![Configuración Avanzada](ruta/hacia/foto_config.png)` -> Muestra donde poner el nombre de usuario y los colores neón.
-> 3. **Integración en Kick**: `![Vista en Kick](ruta/hacia/foto_contexto.png)` -> Una captura de toda la web de Kick con el panel a un lado para ver cómo queda.
-
----
-
 ## Instalación para Usuarios
 
 Mientras la extensión está en proceso de revisión oficial, puedes instalarla manualmente siguiendo estos pasos:
@@ -61,6 +51,9 @@ Mientras la extensión está en proceso de revisión oficial, puedes instalarla 
 3. **Extensiones**: Abre tu navegador y ve a `chrome://extensions/`.
 4. **Modo Desarrollador**: Activa el interruptor en la esquina superior derecha.
 5. **Cargar**: Haz clic en `Cargar descomprimida` y selecciona la carpeta del proyecto.
+
+   <img width="1504" height="253" alt="image" src="https://github.com/user-attachments/assets/15be98c4-e602-4c81-8f9a-e3579dba524e" />
+
 
 ---
 
