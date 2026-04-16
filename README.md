@@ -11,9 +11,9 @@
 
 **BotRix Kick Helper** es una extensión de navegador diseñada para elevar la experiencia de streaming en Kick.com. Olvídate de perder el hilo de tus comandos de BotRix o de calcular mentalmente cuánto falta para tu próximo `!check`. Todo lo que necesitas está ahora en un panel elegante, funcional y totalmente integrado.
 
-<img width="378" height="48" alt="image" src="https://github.com/user-attachments/assets/28f6fb02-4431-4df2-8c08-a29f6c376afc" />
-<img width="368" height="397" alt="image" src="https://github.com/user-attachments/assets/5e72f5f7-696d-4acb-b782-d0a0401664a0" />
-
+> [!TIP]
+> **Imagen Recomendada (Banner Central)**: Pon aquí una captura de pantalla del panel de la extensión (pestaña Comandos) en un tamaño grande para que sea lo primero que se vea.
+> `![Banner de la Extensión](ruta/de/tu/imagen_principal.png)`
 
 ---
 
@@ -25,7 +25,7 @@
 | **Auto-Puntos** | Detección automática de ganancias de puntos mediante lectura inteligente del chat. |
 | **Alertas Visuales** | Una campana roja neón te avisará visualmente cuando el cooldown termine. |
 | **Sonidos Personalizables** | 4 perfiles de audio distintos para que nunca se te pase una alerta. |
-| **Diseño Adaptativo** | Panel arrastrable y redimensionable con soporte para Modo Teatro. |
+| **Diseño Adaptativo** | Panel arrastrable con soporte para Modo Teatro. |
 | **Plantillas** | Importación instantánea de perfiles y configuraciones (.json). |
 
 ---
