@@ -26,6 +26,18 @@
 | **Alertas Visuales** | Una campana roja neón te avisará visualmente cuando el cooldown termine. |
 | **Sonidos Personalizables** | 4 perfiles de audio distintos para que nunca se te pase una alerta. |
 | **Diseño Adaptativo** | Panel arrastrable y redimensionable con soporte para Modo Teatro. |
+| **Plantillas** | Importación instantánea de perfiles y configuraciones (.json). |
+
+---
+
+## Sistema de Plantillas
+
+BotRix Kick Helper incluye soporte para **Plantillas (.json)**, lo que permite configurar instantáneamente los comandos, tiempos y palabras clave de cualquier streamer.
+
+1. Abre el panel y dirígete a **Configuración**.
+2. Despliega la sección de **Configuración Avanzada**.
+3. Haz clic en el botón **Importar Plantilla**.
+4. Selecciona el archivo `.json` del perfil que desees cargar y la extensión se configurará sola.
 
 ---
 
@@ -48,7 +60,6 @@ Mientras la extensión está en proceso de revisión oficial, puedes instalarla 
 3. **Extensiones**: Abre tu navegador y ve a `chrome://extensions/`.
 4. **Modo Desarrollador**: Activa el interruptor en la esquina superior derecha.
 5. **Cargar**: Haz clic en `Cargar descomprimida` y selecciona la carpeta del proyecto.
-6. **Pin**: ¡No olvides fijar el icono en la barra de tareas para un acceso rápido!
 
 ---
 
