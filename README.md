@@ -9,10 +9,13 @@
 
 ## Sobre el Proyecto
 
-**BotRix Kick Helper** es una extensión de navegador diseñada para elevar la experiencia de streaming en Kick.com. Olvídate de perder el hilo de tus comandos de BotRix o de calcular mentalmente cuánto falta para tu próximo `!check`. Todo lo que necesitas está ahora en un panel elegante, funcional y totalmente integrado.
+**BotRix Kick Helper** es una extensión de navegador diseñada para elevar la experiencia de streaming en Kick.com. Permite gestionar comandos de BotRix y realizar un seguimiento de puntos en tiempo real a través de un panel elegante y totalmente integrado.
 
-<img width="368" height="397" alt="image" src="https://github.com/user-attachments/assets/7b1627d0-d7d0-403d-a590-e6c4141ab03c" /> <img width="378" height="48" alt="image" src="https://github.com/user-attachments/assets/f2cb3666-d7fc-4308-aff1-a423b2c188d6" />
-
+<p align="center">
+  <img width="368" alt="BotRix Panel" src="https://github.com/user-attachments/assets/7b1627d0-d7d0-403d-a590-e6c4141ab03c" />
+  <br>
+  <img width="378" alt="BotRix Header" src="https://github.com/user-attachments/assets/f2cb3666-d7fc-4308-aff1-a423b2c188d6" />
+</p>
 
 ---
 
@@ -22,58 +25,61 @@
 | :--- | :--- |
 | **Control de Timers** | Rastreo preciso del cooldown de comandos personalizados y globales. |
 | **Auto-Puntos** | Detección automática de ganancias de puntos mediante lectura inteligente del chat. |
-| **Alertas Visuales** | Una campana roja neón te avisará visualmente cuando el cooldown termine. |
-| **Sonidos Personalizables** | 4 perfiles de audio distintos para que nunca se te pase una alerta. |
-| **Diseño Adaptativo** | Panel arrastrable con soporte para Modo Teatro. |
-| **Plantillas** | Importación instantánea de perfiles y configuraciones (.json). |
+| **Alertas Visuales** | Una campana roja neón indica visualmente la finalización del cooldown. |
+| **Sonidos Personalizables** | Cuatro perfiles de audio distintos para notificaciones. |
+| **Diseño Adaptativo** | Panel arrastrable con soporte optimizado para Modo Teatro. |
+| **Plantillas** | Importación instantánea de perfiles y configuraciones mediante archivos JSON. |
 
 ---
 
 ## Sistema de Plantillas
 
-BotRix Kick Helper incluye soporte para **Plantillas (.json)**, lo que permite configurar instantáneamente los comandos, tiempos y palabras clave de cualquier streamer.
+BotRix Kick Helper incluye soporte para archivos de configuración, permitiendo establecer instantáneamente los comandos y tiempos de cualquier canal.
 
-1. Abre el panel y dirígete a **Configuración**.
-2. Despliega la sección de **Configuración Avanzada**.
-3. Haz clic en el botón **Importar Plantilla**.
-4. Selecciona el archivo `.json` del perfil que desees cargar y la extensión se configurará sola.
+1. Acceder al panel y dirigirse a **Configuración**.
+2. Desplegar la sección de **Configuración Avanzada**.
+3. Seleccionar **Importar Plantilla**.
+4. Cargar el archivo `.json` correspondiente para aplicar los ajustes.
 
-   <img width="365" height="392" alt="image" src="https://github.com/user-attachments/assets/965c3f33-6274-4f0f-83ed-cc19b142dc22" />
-
----
-
-## Instalación para Usuarios
-
-Mientras la extensión está en proceso de revisión oficial, puedes instalarla manualmente siguiendo estos pasos:
-
-1. **Clona o Descarga**: Haz clic en el botón verde `<> Code` y selecciona `Download ZIP`.
-2. **Extrae**: Descomprime el archivo en una carpeta que no vayas a borrar.
-3. **Extensiones**: Abre tu navegador y ve a `chrome://extensions/`.
-4. **Modo Desarrollador**: Activa el interruptor en la esquina superior derecha.
-5. **Cargar**: Haz clic en `Cargar descomprimida` y selecciona la carpeta del proyecto.
-
-   <img width="1504" height="253" alt="image" src="https://github.com/user-attachments/assets/15be98c4-e602-4c81-8f9a-e3579dba524e" />
-
+<p align="center">
+  <img width="365" alt="Configuración de Plantillas" src="https://github.com/user-attachments/assets/965c3f33-6274-4f0f-83ed-cc19b142dc22" />
+</p>
 
 ---
 
-## Cómo empezar a usarla
+## Instalación
 
-1. **Configura tu Perfil**: Entra en la pestaña de ajustes y pon tu **Username** exacto de Kick. Es vital para que la extensión "escuche" al bot cuando te nombre en el chat.
-2. **Personaliza tus Comandos**: Añade los comandos que más uses y define sus segundos de cooldown o importa una plantilla.
-3. **Optimiza tu Stream**: Usa el botón de **Refrescar** si en algún momento quieres sincronizar los puntos manualmente.
+Mientras la extensión se encuentra en proceso de revisión oficial, se puede realizar la instalación manual siguiendo estos pasos:
+
+1. **Descargar**: Obtener el código fuente mediante la opción `Download ZIP` en el botón de código.
+2. **Descomprimir**: Extraer el contenido en un directorio local permanente.
+3. **Navegador**: Acceder a `chrome://extensions/` en la barra de direcciones.
+4. **Modo Desarrollador**: Activar la opción en la esquina superior derecha.
+5. **Cargar**: Seleccionar `Cargar descomprimida` y elegir la carpeta del proyecto.
+
+<p align="center">
+  <img width="100%" alt="Instalación en Chrome" src="https://github.com/user-attachments/assets/15be98c4-e602-4c81-8f9a-e3579dba524e" />
+</p>
+
+---
+
+## Guía de Uso
+
+- **Configuración de Perfil**: Es fundamental introducir el nombre de usuario exacto en la pestaña de ajustes para habilitar el seguimiento de mensajes del bot.
+- **Gestión de Comandos**: Se pueden añadir comandos manualmente definiendo su cooldown o utilizar el sistema de plantillas.
+- **Sincronización**: El botón de actualización permite forzar la lectura de puntos en cualquier momento.
 
 ---
 
 ## Seguridad y Privacidad
 
-Esta extensión es **100% segura**:
-- ✅ No requiere contraseñas.
-- ✅ No guarda datos fuera de tu propio navegador (Local Storage).
-- ✅ Código abierto y transparente.
+Esta extensión ha sido desarrollada bajo estándares de transparencia:
+- No requiere el uso de contraseñas.
+- Los datos se almacenan localmente en el navegador (`Local Storage`).
+- Código de fuente abierta para su auditoría.
 
 ---
 
 <p align="center">
-  Hecho con ❤️ para la comunidad de streamers de Kick.
+  Desarrollado para la comunidad de Kick.com.
 </p>
