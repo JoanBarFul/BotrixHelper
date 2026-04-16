@@ -38,6 +38,8 @@ BotRix Kick Helper incluye soporte para **Plantillas (.json)**, lo que permite c
 3. Haz clic en el botón **Importar Plantilla**.
 4. Selecciona el archivo `.json` del perfil que desees cargar y la extensión se configurará sola.
 
+   <img width="365" height="392" alt="image" src="https://github.com/user-attachments/assets/965c3f33-6274-4f0f-83ed-cc19b142dc22" />
+
 ---
 
 ## Demo Visual
