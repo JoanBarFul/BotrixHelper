@@ -60,7 +60,7 @@ Mientras la extensión está en proceso de revisión oficial, puedes instalarla 
 ## Cómo empezar a usarla
 
 1. **Configura tu Perfil**: Entra en la pestaña de ajustes y pon tu **Username** exacto de Kick. Es vital para que la extensión "escuche" al bot cuando te nombre en el chat.
-2. **Personaliza tus Comandos**: Añade los comandos que más uses y define sus segundos de cooldown (según los tengas configurados en BotRix).
+2. **Personaliza tus Comandos**: Añade los comandos que más uses y define sus segundos de cooldown o importa una plantilla.
 3. **Optimiza tu Stream**: Usa el botón de **Refrescar** si en algún momento quieres sincronizar los puntos manualmente.
 
 ---
