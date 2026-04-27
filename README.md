@@ -53,8 +53,6 @@ Botrix Kick Helper ya está disponible oficialmente en Chrome Web Store.
 
 Instálala directamente desde Chrome para recibir actualizaciones automáticas y usar siempre la versión oficial.
 
-Esta es la única forma recomendada de instalación para garantizar actualizaciones automáticas y seguridad.
-
 ## Guía de Uso
 
 - **Configuración de Perfil**: Es fundamental introducir el nombre de usuario exacto en la pestaña de ajustes para habilitar el seguimiento de mensajes del bot.
