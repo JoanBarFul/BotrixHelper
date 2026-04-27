@@ -47,19 +47,13 @@ BotRix Kick Helper incluye soporte para archivos de configuración, permitiendo 
 
 ## Instalación
 
-Mientras la extensión se encuentra en proceso de revisión oficial, se puede realizar la instalación manual siguiendo estos pasos:
+La extensión está disponible oficialmente en Chrome Web Store.
 
-1. **Descargar**: Obtener el código fuente mediante la opción `Download ZIP` en el botón de código.
-2. **Descomprimir**: Extraer el contenido en un directorio local permanente.
-3. **Navegador**: Acceder a `chrome://extensions/` en la barra de direcciones.
-4. **Modo Desarrollador**: Activar la opción en la esquina superior derecha.
-5. **Cargar**: Seleccionar `Cargar descomprimida` y elegir la carpeta del proyecto.
-
-<p align="center">
-  <img width="100%" alt="Instalación en Chrome" src="https://github.com/user-attachments/assets/15be98c4-e602-4c81-8f9a-e3579dba524e" />
-</p>
+👉 [Instalar extensión]([AQUI_TU_LINK](https://chromewebstore.google.com/detail/botrix-kick-helper/bbapmahhmmppimmhpaoioicclkfapidp?hl=es&pli=1))
 
 ---
+
+Esta es la única forma recomendada de instalación para garantizar actualizaciones automáticas y seguridad.
 
 ## Guía de Uso
 
