@@ -47,8 +47,6 @@ BotRix Kick Helper incluye soporte para archivos de configuración, permitiendo 
 
 ## Instalación
 
-## Instalación
-
 Botrix Kick Helper ya está disponible oficialmente en Chrome Web Store.
 
 [Instalar Botrix Kick Helper](https://chromewebstore.google.com/detail/botrix-kick-helper/bbapmahhmmppimmhpaoioicclkfapidp)
