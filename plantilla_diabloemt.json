@@ -1,0 +1,29 @@
+{
+  "streamerName": "diabloemt",
+  "leerPuntos": [
+    "[points] points",
+    "ahora tienes: [points]",
+    "@[user] tiene [points] puntos."
+  ],
+  "commands": {
+    "cmd_1776265385831": {
+      "label": "!check",
+      "cooldown": 1200
+    },
+    "cmd_1776265404864": {
+      "label": "!bonus",
+      "cooldown": 1200
+    },
+    "cmd_1776265417402": {
+      "label": "!extra",
+      "cooldown": 1800
+    }
+  },
+  "soundType": "standard",
+  "notifEnabled": true,
+  "muteEnabled": false,
+  "liveOnly": true,
+  "comandoApuesta": "!bet",
+  "creacionApuesta": "Nueva apuesta creada:",
+  "resultadoApuesta": "Apuesta finalizada:"
+}
